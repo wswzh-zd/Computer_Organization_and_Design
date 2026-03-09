@@ -4,16 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="" />
+    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/总线结构2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/总线结构3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/总线结构4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主存储器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/总线系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/总线系统.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;wswzh-zd&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/wswzh-zd/Computer_Organization_and_Design.git&quot;,
+    &quot;accountId&quot;: &quot;68b77bea-7b7e-4f1d-be11-563e0ac31ee9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3AVp7g8mF2SbtzBBCPDPbMpY0Wd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,9 +52,16 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/markdown/Computer Organization and Design&quot;
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/markdown/Python Concurrent Programming&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\markdown\Computer Organization and Design\Picture" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Computer Organization and Design" />
