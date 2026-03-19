@@ -4,24 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/总线结构2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/总线结构3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/总线结构4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主存储器.md" afterDir="false" />
+    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="20260309">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/主存储器9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/数据0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/数据1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/数据2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/数据3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/数据4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/数据5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md格式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据的表示和运算.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/总线系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/总线系统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/主存储器.md" beforeDir="false" afterPath="$PROJECT_DIR$/主存储器.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_E:/markdown/Computer Organization and Design" value="3AVp7g8mF2SbtzBBCPDPbMpY0Wd" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="Agent" />
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="GPT-5 mini" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,12 +99,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/markdown/Python Concurrent Programming&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/markdown/Python Concurrent Programming&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\markdown\Computer Organization and Design\Picture" />
+      <recent name="E:\markdown\Computer Organization and Design" />
     </key>
   </component>
   <component name="RunManager">
@@ -102,6 +149,27 @@
       <option name="presentableId" value="Default" />
       <updated>1772687425767</updated>
     </task>
+    <task id="LOCAL-00001" summary="20260309">
+      <option name="closed" value="true" />
+      <created>1773027400146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773027400146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20260309" />
+    <option name="LAST_COMMIT_MESSAGE" value="20260309" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
