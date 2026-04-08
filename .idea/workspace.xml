@@ -5,42 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="20260309">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/主存储器9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/数据0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/数据1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/数据2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/数据3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/数据4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/数据5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md格式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据的表示和运算.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主存储器.md" beforeDir="false" afterPath="$PROJECT_DIR$/主存储器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据的表示和运算.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据的表示和运算.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +26,9 @@
       <entry key="chat-panel" value="GPT-5 mini" />
       <entry key="agent-panel" value="GPT-5 mini" />
     </selectedModels>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="79" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,11 +52,15 @@
     &quot;accountId&quot;: &quot;68b77bea-7b7e-4f1d-be11-563e0ac31ee9&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3AVp7g8mF2SbtzBBCPDPbMpY0Wd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -96,10 +69,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/markdown/Python Concurrent Programming&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/markdown/Computer Organization and Design&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -123,6 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -136,7 +111,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f78a9d071105-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26574.90" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
   </component>
@@ -157,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773027400146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20260309">
+      <option name="closed" value="true" />
+      <created>1773929264877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773929264877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
