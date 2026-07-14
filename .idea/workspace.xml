@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="20260514">
+    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="wzh">
+      <change beforePath="$PROJECT_DIR$/.idea/Computer Organization and Design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Computer Organization and Design.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/中央处理器.md" beforeDir="false" afterPath="$PROJECT_DIR$/中央处理器.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/输入输出系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/输入输出系统.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +47,74 @@
     &quot;assignee&quot;: &quot;wswzh-zd&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/wswzh-zd/Computer_Organization_and_Design.git&quot;,
-    &quot;accountId&quot;: &quot;68b77bea-7b7e-4f1d-be11-563e0ac31ee9&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wswzh-zd/Computer_Organization_and_Design.git",
+    "accountId": "c05bd07d-5c11-4041-8043-dcf206daf848"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.6285066872609142" />
+      <entry key="MS500" value="0.9113012806371416" />
+      <entry key="S2" value="0.9770470890083635" />
+      <entry key="S5" value="0.990754829612959" />
+      <entry key="S10" value="0.9953666809839271" />
+      <entry key="S30" value="0.9984531688751409" />
+      <entry key="S60" value="0.9992262851202128" />
+      <entry key="M2" value="0.9996130677018047" />
+      <entry key="M5" value="0.999845209111021" />
+      <entry key="M10" value="0.9999226015602513" />
+      <entry key="M15" value="0.9999484003745315" />
+      <entry key="M30" value="0.999974199854442" />
+      <entry key="H1" value="0.999987099844014" />
+      <entry key="H2" value="0.9999935499012051" />
+      <entry key="H4" value="0.9999967749454021" />
+      <entry key="D1" value="0.999999462490178" />
+      <entry key="W1" value="0.9999999232128649" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -68,16 +127,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/markdown/Computer Organization and Design&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/markdown/Computer Organization and Design",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\markdown\Computer Organization and Design\Picture" />
@@ -113,7 +179,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -182,14 +248,26 @@
       <option name="project" value="LOCAL" />
       <updated>1778771413180</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="wzh">
+      <option name="closed" value="true" />
+      <created>1784018239644</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784018239644</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20260309" />
     <MESSAGE value="20260411" />
     <MESSAGE value="20260413" />
-    <option name="LAST_COMMIT_MESSAGE" value="20260413" />
+    <MESSAGE value="wzh" />
+    <option name="LAST_COMMIT_MESSAGE" value="wzh" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
