@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="20260413">
+    <list default="true" id="5421b670-bf20-4997-81f3-81fe635b5fcd" name="更改" comment="20260514">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/指令系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/指令系统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中央处理器.md" beforeDir="false" afterPath="$PROJECT_DIR$/中央处理器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/输入输出系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/输入输出系统.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     </selectedModels>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="124" />
+    <option name="cachedIndexableFilesCount" value="131" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,6 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
@@ -164,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776049575580</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20260413">
+      <option name="closed" value="true" />
+      <created>1778771389815</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778771389815</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20260413">
+      <option name="closed" value="true" />
+      <created>1778771413180</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778771413180</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
